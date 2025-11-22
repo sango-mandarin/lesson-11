@@ -1,0 +1,13 @@
+body {
+    background-color: cadetblue;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: monospace;
+}
+
+div {
+    background-color: black;
+    color: white;
+    padding: 0 50px 0 0;
+}
